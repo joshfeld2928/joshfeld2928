@@ -7,10 +7,7 @@
 
 
 [![Email](https://img.shields.io/badge/Email-joshfeld2928@gmail.com-7B83EB?style=flat-square&logo=Microsoft-outlook)](mailto:joshfeld2928@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-billpwchan.com-000000?style=flat-square&logo=safari)](https://www.billpwchan.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-billpwchan-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/billpwchan1998/)
-[![Instagram](https://img.shields.io/badge/Instagram-@billpwchan-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/billpwchan/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joshua_Feld-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/joshua-feld-2b95a8271/)
 </div>
 
 ---
