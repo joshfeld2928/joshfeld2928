@@ -1,12 +1,12 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Bill Chan | Quant Research & Algo Trading
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Joshua Feld | Data Science & Machine Learning
 
 <div align="center">
 
-**Systematic Trading | Web3 Infrastructure | Market Microstructure**
+**Computational Neuroscience | Deep Learning | Stochastic Processes**
 
-<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=600&lines=Quant+Developer+%7C+Algo+Trader+%7C+Web3+PM;MSc+Computing+in+Management+%26+Finance;Building+Systematic+Trading+Systems+%26+DeFi+Analytics" height="40"/>
 
-[![Email](https://img.shields.io/badge/Email-billpwchan@hotmail.com-7B83EB?style=flat-square&logo=Microsoft-outlook)](mailto:billpwchan@hotmail.com)
+
+[![Email](https://img.shields.io/badge/Email-joshfeld2928@gmail.com-7B83EB?style=flat-square&logo=Microsoft-outlook)](mailto:joshfeld2928@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-billpwchan.com-000000?style=flat-square&logo=safari)](https://www.billpwchan.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-billpwchan-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/billpwchan1998/)
 [![Instagram](https://img.shields.io/badge/Instagram-@billpwchan-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/billpwchan/)
