@@ -32,7 +32,7 @@ Data Scientist and Research Assistant with a strong foundation in computational 
 
 
 
-Current Focus: Computational Brain Modeling | Predictive Analytics | Machine Learning Engineering | Statistical Research
+Current Focus: Computational and Mathematical Models of the Brain | Machine Learning | Statistical Modeling
 
 
 
