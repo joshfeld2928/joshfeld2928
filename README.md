@@ -22,6 +22,8 @@ Current Focus: Computational Brain Modeling | Predictive Analytics | Machine Lea
 </div>
 
 🛠️ Technical Stack
+
+
 Data Science & Machine Learning 'Python' 'PyTorch' Scikit-learn TensorFlow NumPy Pandas R PySpark
 
 Research & Analytics Statistical Modeling Monte Carlo Simulations Stochastic Processes Matplotlib SciPy ggplot2
