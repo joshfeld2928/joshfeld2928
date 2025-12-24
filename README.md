@@ -22,7 +22,7 @@
 
 
 
-###🎯 Professional Summary
+### 🎯 Professional Summary
 ---
 Data Scientist and Research Assistant with a strong foundation in computational neuroscience, machine learning, and statistical modeling. Experienced in developing predictive models—ranging from artificial neural networks for biological spike rate predictions to convolutional neural networks for medical imaging—while leveraging high-performance computing clusters for scalable workflows. Expert at synthesizing complex datasets into actionable insights through rigorous exploratory data analysis, mathematical simulations, and the authorship of technical literature reviews.
 
@@ -59,8 +59,8 @@ Core Competencies `Data Cleaning & Transformation` `Predictive Analytics` `Compu
 
 
 
-🚀 Featured Projects
-
+### 🚀 Featured Projects
+---
 Neural Modeling & Computational Neuroscience Developed sophisticated simulations including Drift Diffusion Models to replicate neural decision-making processes and evaluated input variability in foundation artificial neural network models based on the mouse visual cortex. These tasks involved optimizing linear readout weights for decoding orientation stimuli and utilizing high-performance computing clusters (SLURM) to manage large-scale predictive workflows.
 
 
