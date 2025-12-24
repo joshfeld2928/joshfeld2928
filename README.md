@@ -10,9 +10,6 @@
 
 
 
-
-
-
 [![Email](https://img.shields.io/badge/Email-joshfeld2928@gmail.com-7B83EB?style=flat-square&logo=Microsoft-outlook)](mailto:joshfeld2928@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joshua_Feld-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/joshua-feld-2b95a8271/)
@@ -25,8 +22,8 @@
 
 
 
-🎯 Professional Summary
-
+###🎯 Professional Summary
+---
 Data Scientist and Research Assistant with a strong foundation in computational neuroscience, machine learning, and statistical modeling. Experienced in developing predictive models—ranging from artificial neural networks for biological spike rate predictions to convolutional neural networks for medical imaging—while leveraging high-performance computing clusters for scalable workflows. Expert at synthesizing complex datasets into actionable insights through rigorous exploratory data analysis, mathematical simulations, and the authorship of technical literature reviews.
 
 
