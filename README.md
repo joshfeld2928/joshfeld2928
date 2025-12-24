@@ -24,7 +24,7 @@
 
 ### 🎯 Professional Summary
 ---
-Data Scientist and Research Assistant with a strong foundation in computational neuroscience, machine learning, and statistical modeling. Experienced in developing predictive models—ranging from artificial neural networks for biological spike rate predictions to convolutional neural networks for medical imaging—while leveraging high-performance computing clusters for scalable workflows. Expert at synthesizing complex datasets into actionable insights through rigorous exploratory data analysis, mathematical simulations, and the authorship of technical literature reviews.
+Data Scientist and Research Assistant with a strong foundation in computational neuroscience, machine learning, and statistical modeling. Experienced in working with predictive models—ranging from artificial neural networks for biological spike rate predictions to convolutional neural networks for medical imaging—while leveraging high-performance computing clusters for scalable workflows. Expert at synthesizing complex datasets into actionable insights through rigorous exploratory data analysis, mathematical simulations, and the authorship of technical literature reviews.
 
 
 
