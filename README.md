@@ -43,25 +43,22 @@ Current Focus: Computational Brain Modeling | Predictive Analytics | Machine Lea
 
 
 
-🛠️ Technical Stack
-
-
-
-
+### 🛠️ Technical Stack
+---
 
 Data Science & Machine Learning `Python` `PyTorch` `Scikit-learn` `TensorFlow` `NumPy` `Pandas` `R` `PySpark`
 
 
 
-Research & Analytics Statistical Modeling Monte Carlo Simulations Stochastic Processes Matplotlib SciPy ggplot2
+Research & Analytics `Statistical Modeling` `Monte Carlo Simulations` `Stochastic Processes` `Matplotlib` `SciPy` `ggplot2`
 
 
 
-Infrastructure & Databases SQL SLURM Bash Git REDCap Jupyter Notebook High-Performance Computing (HPC)
+Infrastructure & Databases `SQL` `SLURM` `Bash` `Git` `REDCap` `Jupyter Notebook` `High-Performance Computing (HPC)`
 
 
 
-Core Competencies Data Cleaning & Transformation Predictive Analytics Computational Neuroscience EDA
+Core Competencies `Data Cleaning & Transformation` `Predictive Analytics` `Computational Neuroscience` `EDA`
 
 
 
