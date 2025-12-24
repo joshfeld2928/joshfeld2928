@@ -58,21 +58,6 @@ Infrastructure & Databases `SQL` `SLURM` `Bash` `Git` `REDCap` `Jupyter Notebook
 Core Competencies `Data Cleaning & Transformation` `Predictive Analytics` `Computational Neuroscience` `EDA`
 
 
-
-### 🚀 Featured Projects
----
-Neural Modeling & Computational Neuroscience Developed sophisticated simulations including Drift Diffusion Models to replicate neural decision-making processes and evaluated input variability in foundation artificial neural network models based on the mouse visual cortex. These tasks involved optimizing linear readout weights for decoding orientation stimuli and utilizing high-performance computing clusters (SLURM) to manage large-scale predictive workflows.
-
-
-
-Medical Imaging & Behavioral Analytics Built and optimized deep learning architectures, such as Convolutional Neural Networks for pneumonia detection, achieving accuracy improvements through ensemble and boosting algorithms. Additionally, performed extensive longitudinal analysis on patient records and global health data to identify developmental indicators and evaluate the impact of socioeconomic factors on physical health.
-
-
-
-Statistical Learning & Data Engineering Executed diverse quantitative projects ranging from K-means clustering of social trust data to linear regression analysis of radio signal propagation. Built scalable infrastructure including real-time inventory databases using SQL and PHP, and consistently communicated technical findings through formal presentations and peer-reviewed literature reviews.
-
-
-
 <div align="center">
 
 
