@@ -49,7 +49,7 @@ Current Focus: Computational Brain Modeling | Predictive Analytics | Machine Lea
 
 
 
-Data Science & Machine Learning 'Python' 'PyTorch' Scikit-learn TensorFlow NumPy Pandas R PySpark
+Data Science & Machine Learning `Python` `PyTorch` `Scikit-learn` `TensorFlow` `NumPy` `Pandas` `R` `PySpark`
 
 
 
