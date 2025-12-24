@@ -1,12 +1,11 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Joshua Feld | Data Science & Machine Learning
-
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Joshua Feld | Data Science
 
 
 <div align="center">
 
 
 
-**Computational Neuroscience | Deep Learning | Stochastic Processes**
+**Computational Neuroscience | Machine Learning | Stochastic Processes**
 
 
 
