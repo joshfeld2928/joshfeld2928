@@ -62,7 +62,7 @@ Core Competencies `Data Cleaning & Transformation` `Predictive Analytics` `Compu
 
 
 
-Open to opportunities in Data Science | Machine Learning | Research Engineering
+Open to opportunities in Data Science | Machine Learning | Artificial Intelligence
 
 
 
